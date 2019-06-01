@@ -1,9 +1,0 @@
-C:\Users\brandon.lundt\Documents\PowerShellProjects\PandorasBox\obj\Debug\netstandard2.0\PandorasBox.csprojAssemblyReference.cache
-C:\Users\brandon.lundt\Documents\PowerShellProjects\PandorasBox\obj\Debug\netstandard2.0\PandorasBox.csproj.CoreCompileInputs.cache
-C:\Users\brandon.lundt\Documents\PowerShellProjects\PandorasBox\obj\Debug\netstandard2.0\PandorasBox.AssemblyInfoInputs.cache
-C:\Users\brandon.lundt\Documents\PowerShellProjects\PandorasBox\obj\Debug\netstandard2.0\PandorasBox.AssemblyInfo.cs
-C:\Users\brandon.lundt\Documents\PowerShellProjects\PandorasBox\bin\Debug\netstandard2.0\PandorasBox.deps.json
-C:\Users\brandon.lundt\Documents\PowerShellProjects\PandorasBox\bin\Debug\netstandard2.0\PandorasBox.dll
-C:\Users\brandon.lundt\Documents\PowerShellProjects\PandorasBox\bin\Debug\netstandard2.0\PandorasBox.pdb
-C:\Users\brandon.lundt\Documents\PowerShellProjects\PandorasBox\obj\Debug\netstandard2.0\PandorasBox.dll
-C:\Users\brandon.lundt\Documents\PowerShellProjects\PandorasBox\obj\Debug\netstandard2.0\PandorasBox.pdb
